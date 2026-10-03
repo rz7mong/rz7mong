@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,100:7c5cff&height=180&section=header&text=Naisyila&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Naisyila" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,100:7c5cff&height=180&section=header&text=rzmong&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="rzmong" />
 
-# 👋 Hai, aku Naisyila
+# 👋 Hai, aku rzmong
 
 ### 🍡 Firmware, layar kecil, dan benda yang benar-benar bisa dinyalakan
 
